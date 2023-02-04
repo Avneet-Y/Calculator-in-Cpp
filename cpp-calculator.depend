@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1675496641 source:d:\practise\cpp-calculator\calculator.cpp
+	<iostream>
+	"calculator.h"
+
+1675496641 d:\practise\cpp-calculator\calculator.h
+	<string>
+	<array>
+	<cmath>
+
+1675496828 source:d:\practise\cpp-calculator\main.cpp
+	<iostream>
+	<iomanip>
+	"calculator.h"
+	"scientific.h"
+
+1675494926 d:\practise\cpp-calculator\scientific.h
+	<string>
+	<array>
+	<cmath>
+	"calculator.h"
+
+1675494926 source:d:\practise\cpp-calculator\scientific.cpp
+	<iostream>
+	"scientific.h"
+
